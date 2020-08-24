@@ -3,10 +3,10 @@ Generating a word cloud from the India Wikipedia page in the shape of the Indian
 
 # Requirements
 Install **pandas** by running:
-$ conda install -c anaconda pandas --yes
+```$ conda install -c anaconda pandas --yes```
 
 **pandas** requires **xlrd** to read in excel files. Install **xlrd** by running:
-$ conda install -c anaconda xlrd --yes
+```$ conda install -c anaconda xlrd --yes```
 
 # Notes
 If **xlrd** throws *CompDocError*, refer to the following answer for the solution:
